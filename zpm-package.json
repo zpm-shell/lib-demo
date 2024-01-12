@@ -1,0 +1,12 @@
+{
+    "name": "github.com/zpm-shell/lib-demo",
+    "version": "1.0.0",
+    "description": "A zpm package",
+    "main": "lib/main.zsh",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
